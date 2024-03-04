@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class SquareHollowPattern {
+public class Square_Hollow_Pattern {
 	public static void printPattern(int n)
 	{
 		int i, j;
