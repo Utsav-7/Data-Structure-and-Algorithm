@@ -8,3 +8,4 @@
 7) Tree
 8) Graph
 9) Heap
+10) Different Patterns 
